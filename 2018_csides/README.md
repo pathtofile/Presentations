@@ -1,7 +1,7 @@
 # pip install exfil: Data exfiltration and C2 using Python PyPI
 
 ## Overview
-Presentation given at CSides October 2018 on using public repos for C2
+Presentation given at the `CSides Monthly` Security meetup in October 2018 on using public repos for C2
 
 Developers regularly use public repositories to install 3rd party libraries, from OS-specific repos like the Arch User Repository to language-specific repos like Python's PyPi, to public sourcecode repos like Github. The majority of requests to these systems are under SSL, to known, trusted, public servers, and request would not look out of place coming from a software build server or a developer's workstation.
 
