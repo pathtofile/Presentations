@@ -2,7 +2,7 @@
 
 This repo holds slides from any presentations I've given:
 
-# Confrences
+# Conferences
 ## 2021
 ### DEF CON 29: Warping Reality - creating and countering the next generation of Linux rootkits using eBPF
 [https://github.com/pathtofile/Presentations/tree/master/2021_defcon](https://github.com/pathtofile/Presentations/tree/master/2021_defcon)
