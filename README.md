@@ -2,23 +2,23 @@
 
 This repo holds slides from any presentations I've given:
 
+# Confrences
+## 2021
+### DEF CON 29: Warping Reality - creating and countering the next generation of Linux rootkits using eBPF
+[https://github.com/pathtofile/Presentations/tree/master/2021_defcon](https://github.com/pathtofile/Presentations/tree/master/2021_defcon)
+
+
 ## 2019
+### BSides Canberra: Abuse of trust - Exploiting our relationship with public repositories  
+[https://github.com/pathtofile/Presentations/tree/master/2019_bsides](https://github.com/pathtofile/Presentations/tree/master/2019_bsides)
 
-### Abuse of trust: Exploiting our relationship with public repositories  
-BSides Canberra
 
-Abstract: [https://bsidesau.com.au/2019/speakers.html#path](https://bsidesau.com.au/2019/speakers.html#path)
-
-Video: [https://www.youtube.com/watch?v=V1_mg5cZsd8](https://www.youtube.com/watch?v=V1_mg5cZsd8)
-
-Slides: [https://github.com/pathtofile/Presentations/tree/master/2019_bsides](https://github.com/pathtofile/Presentations/tree/master/2019_bsides)
+# Meetups
+## 2021
+### CSides Monthly: eBPF - The coolest-newest kid in town
+[https://github.com/pathtofile/Presentations/tree/master/2021_csides](https://github.com/pathtofile/Presentations/tree/master/2021_csides)
 
 
 ## 2018
-
-### pip install exfil: Data exfiltration and C2 using Python PyPI
-CSides Monthly Security Meetup
-
-Abstract: [https://bsidesau.com.au/2019/csides.html](https://bsidesau.com.au/2019/csides.html)
-
-Slides: [https://github.com/pathtofile/Presentations/tree/master/2018_csides](https://github.com/pathtofile/Presentations/tree/master/2018_csides)
+### CSides Monthly: pip install exfil: Data exfiltration and C2 using Python PyPI
+[https://github.com/pathtofile/Presentations/tree/master/2018_csides](https://github.com/pathtofile/Presentations/tree/master/2018_csides)
