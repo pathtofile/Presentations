@@ -9,8 +9,11 @@ eBPF is one of the newest additions to the Linux kernel, designed to easily load
 These ideas and more are explored in this talk alongside practical methods to detect and prevent this next generation of Linux rootkits.
 
 ## Video:
-TBD
+https://www.youtube.com/watch?v=g6SKWT7sROQ
 
 ## Slides
 [https://github.com/pathtofile/Presentations/blob/master/2021_defcon/path-defcon29-ebpf.pdf](https://github.com/pathtofile/Presentations/blob/master/2021_defcon/path-defcon29-ebpf.pdf)
 
+
+## Blog
+[https://blog.tofile.dev/2021/08/01/bad-bpf.html](https://blog.tofile.dev/2021/08/01/bad-bpf.html)
