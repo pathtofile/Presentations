@@ -14,6 +14,8 @@ https://www.youtube.com/watch?v=g6SKWT7sROQ
 ## Slides
 [https://github.com/pathtofile/Presentations/blob/master/2021_defcon/path-defcon29-ebpf.pdf](https://github.com/pathtofile/Presentations/blob/master/2021_defcon/path-defcon29-ebpf.pdf)
 
+## Code
+[https://github.com/pathtofile/bad-bpf](https://github.com/pathtofile/bad-bpf)
 
 ## Blog
 [https://blog.tofile.dev/2021/08/01/bad-bpf.html](https://blog.tofile.dev/2021/08/01/bad-bpf.html)
